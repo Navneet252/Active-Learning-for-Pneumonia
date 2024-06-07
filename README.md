@@ -1,1 +1,2 @@
 # Active-Learning-for-Pneumonia
+*Active learning* is an algorithm that precisely works on the premise of using less amount of data to train. In Active learning, we select the images that provide the most information for the model. In our work, we started with 100 images. With each increment, we saw growth in the accuracy. 1st iteration we had accuracy of 69.49% and after 60th iteration we achieved 79.48% accuracy. These results show the potential of active learning in Respiratory diseases and the X-ray domain.
