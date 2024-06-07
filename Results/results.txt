@@ -1,0 +1,1 @@
+Results are in this folder. Final result of the model starting with 100 images and with a increment of 40 images per iteration is given under the name Test image.
